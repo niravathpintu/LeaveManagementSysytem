@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\LMS.Model\bin\Debug\LMS.Model.dll
+C:\Users\User\source\repos\LMS.Model\bin\Debug\LMS.Model.pdb
+C:\Users\User\source\repos\LMS.Model\obj\Debug\LMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LMS.Model\obj\Debug\LMS.Model.dll
+C:\Users\User\source\repos\LMS.Model\obj\Debug\LMS.Model.pdb
+C:\Users\User\source\repos\LMS.Model\obj\Debug\LMS.Model.csprojAssemblyReference.cache
